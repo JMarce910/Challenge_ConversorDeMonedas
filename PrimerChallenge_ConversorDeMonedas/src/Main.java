@@ -9,7 +9,7 @@ public class Main {
 
         int opcion = 0;
 
-        while (opcion != 8){
+        while (opcion != 7){
         System.out.println("~~~~~~ BIENVENIDO/A AL CONVERSOR DE MONEDAS ~~~~~~\n");
 
         String menu = """
